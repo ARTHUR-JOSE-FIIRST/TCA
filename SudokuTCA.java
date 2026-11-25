@@ -8,14 +8,14 @@ import com.sun.jna.Native;
 
 public class SudokuTCA {
 
-     // COMO COMPILAR E RODAR PELO TERMINAL (dentro da pasta do projeto):
+    // COMO COMPILAR E RODAR PELO TERMINAL (dentro da pasta do projeto):
     //   Mac e Linux:
     //     javac -cp "lib/*" SudokuTCA.java
     //     java --enable-native-access=ALL-UNNAMED -cp ".:lib/*" SudokuTCA
     //   Windows:
     //     javac -cp "lib/*" SudokuTCA.java
     //     java --enable-native-access=ALL-UNNAMED -cp ".;lib/*" SudokuTCA
-    
+
     // metodo movimento Ló
     public interface Crt extends Library {
         Crt INSTANCE = Native.load("msvcrt", Crt.class);
@@ -489,13 +489,13 @@ public class SudokuTCA {
 
             sortearPosicoesFixas(tabuleiro9x9, tabuleiro9x9fixos, quantidadeFixos, casas);
 
-            final double LIMITE_SEGUNDOS = 9 * 60.0;
+            final double LIMITE_SEGUNDOS = 18 * 60.0;
 
             iniciarCronometro();
 
             double tempoRestante = LIMITE_SEGUNDOS;
 
-            int proxApagao = 60;
+            int proxApagao = 120;
 
             System.out.print("\033[H\033[2J\033[3J");
             imprimirTabuleiro(tabuleiro9x9, posicao[0], posicao[1], vida, blocoLinha, tabuleiro9x9fixos);
