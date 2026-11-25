@@ -1,6 +1,5 @@
-<a href="https://www.youtube.com/watch?v=ID_DO_VIDEO">
-  <img src="https://img.youtube.com/vi/dZzW6WYQovI/maxresdefault.jpg"
-       width="600">
+<a href="https://www.youtube.com/watch?v=SEU_ID">
+  <img src="https://img.youtube.com/vi/dZzW6WYQovI/hqdefault.jpg" width="600">
 </a>
 
 𝙎𝙪𝙙𝙤𝙠𝙪 𝙚𝙢 𝙅𝙖𝙫𝙖:
