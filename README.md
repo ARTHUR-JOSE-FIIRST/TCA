@@ -1,6 +1,7 @@
-<video width="100%" controls>
-  <source src="[URL_DO_VIDEO](https://youtu.be/dZzW6WYQovI?si=5HaHutqnt7EEZ1JX)" type="video/mp4">
-</video>
+<a href="https://www.youtube.com/watch?v=ID_DO_VIDEO">
+  <img src="https://img.youtube.com/vi/dZzW6WYQovI/maxresdefault.jpg"
+       width="600">
+</a>
 
 𝙎𝙪𝙙𝙤𝙠𝙪 𝙚𝙢 𝙅𝙖𝙫𝙖:
 
