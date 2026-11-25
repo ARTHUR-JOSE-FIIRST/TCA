@@ -8,6 +8,14 @@ import com.sun.jna.Native;
 
 public class SudokuTCA {
 
+     // COMO COMPILAR E RODAR PELO TERMINAL (dentro da pasta do projeto):
+    //   Mac e Linux:
+    //     javac -cp "lib/*" SudokuTCA.java
+    //     java --enable-native-access=ALL-UNNAMED -cp ".:lib/*" SudokuTCA
+    //   Windows:
+    //     javac -cp "lib/*" SudokuTCA.java
+    //     java --enable-native-access=ALL-UNNAMED -cp ".;lib/*" SudokuTCA
+    
     // metodo movimento Ló
     public interface Crt extends Library {
         Crt INSTANCE = Native.load("msvcrt", Crt.class);
