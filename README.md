@@ -1,3 +1,5 @@
+https://youtu.be/dZzW6WYQovI?si=MZV-GuhD_2d2niqx
+
 𝙎𝙪𝙙𝙤𝙠𝙪 𝙚𝙢 𝙅𝙖𝙫𝙖:
 
 <img width="260" height="435" alt="image" src="https://github.com/user-attachments/assets/5a73dd65-93da-4ea5-b8fb-bb667da77cbf" />
