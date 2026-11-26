@@ -20,3 +20,5 @@ Tabuleiro 9x9.
 
 Além do modo tradicional, o jogo contará com um sistema de tempo para cada rodada, no qual o jogador deverá resolver o Sudoku antes que o tempo se esgote. Também haverá um modo de desafio, em que um conjunto de números da matriz desaparecerá após determinados intervalos de tempo, aumentando a dificuldade e exigindo mais atenção e raciocínio lógico do jogador.
 
+67
+
